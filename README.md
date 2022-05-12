@@ -1,4 +1,4 @@
-# m-onz-treasure-chest
+# m-onz-misc-pd
 
 m-onz personal algorithmic treasure chest for Pure data (Pd) &amp; gem.
 
