@@ -1,4 +1,4 @@
-#N canvas 546 160 342 503 12;
+#N canvas 546 160 345 535 12;
 #X msg 15 150 seek \$1;
 #X msg 245 34 next;
 #X obj 13 192 else/dir -ext .wav;
